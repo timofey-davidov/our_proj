@@ -1,2 +1,3 @@
 def count_days_to_new_year_end():
-    pass
+    """Функция выводит количество дней до НГ"""
+    print(10)
